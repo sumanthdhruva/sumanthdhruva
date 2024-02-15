@@ -78,16 +78,6 @@
        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
    </p>
       
-   ## 🔥 Streak stats
-
-   <p align="center">
-     <a href="#">
-       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niranjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansah87&theme=vue-dark&hide_border=true"/>
-    </a>
-
-   </p>
-   
-
    ## 📊 Github stats
   <br/>
   
@@ -97,13 +87,13 @@
  </p>
 <br/>
 
-  <a href="#"><img alt="Niranjan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=niranjansah87&bg_color=#000000
+  <a href="#"><img alt="Sumanth's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sumanthdhruva&bg_color=#000000
 &color=000000&line=ff0040&point=403d3d&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
    
 
    <br><br><br><br><br><br>
    <h4 align="center">
-     <a href="https://github.com/niranjansah87?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+     <a href="https://github.com/sumanthdhruva?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
    </h4>
    <br>
    <hr>
