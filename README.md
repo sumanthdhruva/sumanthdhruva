@@ -10,7 +10,9 @@
    <h3 align="center">Full Stack Web Developer, Research and Intrest in  Artificial Intelligence With Cyber</h3>
    <p align="center">I am a passionate and dedicated computer science and information technology professional with expertise in C, Java, Python, and Full Stack Development. With an interest in Artificaial Intelligence, Research and Web Development.</p>
 <div align="center">
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonnalagaddasumanthdhruva/)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-sah/)
+
+
 </div>
    ## 🚀 About Me
 
